@@ -1,5 +1,4 @@
-alert('Olá mundo')
-
+alert{'olá mundo'}
 function TocaSomPom(){
     document.querySelector('#som_tecla_pom').play();
 }
